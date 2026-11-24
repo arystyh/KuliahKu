@@ -1,0 +1,349 @@
+{
+  "tasks": [],
+  "semesters": [
+    {
+      "id": 1,
+      "name": "2026/2027 Term 1",
+      "order": 1
+    }
+  ],
+  "courses": [
+    {
+      "id": 101,
+      "semesterId": 1,
+      "code": "ENFE600002",
+      "name": "Berpikir Komputasional",
+      "className": "Berpikir Kompu-02",
+      "sks": 3,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "101-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "101-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "101-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "101-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "semesterId": 1,
+      "code": "ENEE602005",
+      "name": "Dasar Sistem Digital dan Praktikum",
+      "className": "Dasar Sistem Dig-01",
+      "sks": 4,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "102-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "102-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "102-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "102-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "semesterId": 1,
+      "code": "ENBS600004",
+      "name": "Fisika - Listrik, Magnet, Gelombang, Optik",
+      "className": "Fisika Listrik-01",
+      "sks": 4,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "103-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "103-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "103-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "103-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "semesterId": 1,
+      "code": "ENBS600001",
+      "name": "Kalkulus",
+      "className": "Kalkulus-10",
+      "sks": 4,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "104-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "104-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "104-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "104-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "semesterId": 1,
+      "code": "UIGE600004",
+      "name": "MPK Agama",
+      "className": "Islam-26",
+      "sks": 2,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "105-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "105-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "105-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "105-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "semesterId": 1,
+      "code": "UIGE600003",
+      "name": "MPK Bahasa Inggris",
+      "className": "Bahasa Inggris-RTKom",
+      "sks": 3,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "106-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "106-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "106-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "106-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "semesterId": 1,
+      "code": "ENCE601002",
+      "name": "Organisasi dan Arsitektur Komputer",
+      "className": "Org Arsitek Komp-01",
+      "sks": 3,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "107-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "107-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "107-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "107-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "semesterId": 1,
+      "code": "ENCE601001",
+      "name": "Praktikum Fisika Dasar",
+      "className": "Prak Fisika Dasar 5",
+      "sks": 1,
+      "mode": "komponen",
+      "finalLetter": null,
+      "components": [
+        {
+          "id": "108-0",
+          "name": "Kuis",
+          "weight": 15,
+          "score": null
+        },
+        {
+          "id": "108-1",
+          "name": "Tugas",
+          "weight": 20,
+          "score": null
+        },
+        {
+          "id": "108-2",
+          "name": "UTS",
+          "weight": 30,
+          "score": null
+        },
+        {
+          "id": "108-3",
+          "name": "UAS",
+          "weight": 35,
+          "score": null
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "gradeScale": [
+      {
+        "letter": "A",
+        "min": 85,
+        "point": 4
+      },
+      {
+        "letter": "A-",
+        "min": 80,
+        "point": 3.7
+      },
+      {
+        "letter": "B+",
+        "min": 75,
+        "point": 3.3
+      },
+      {
+        "letter": "B",
+        "min": 70,
+        "point": 3
+      },
+      {
+        "letter": "B-",
+        "min": 65,
+        "point": 2.7
+      },
+      {
+        "letter": "C+",
+        "min": 60,
+        "point": 2.3
+      },
+      {
+        "letter": "C",
+        "min": 55,
+        "point": 2
+      },
+      {
+        "letter": "D",
+        "min": 40,
+        "point": 1
+      },
+      {
+        "letter": "E",
+        "min": 0,
+        "point": 0
+      }
+    ]
+  }
+}

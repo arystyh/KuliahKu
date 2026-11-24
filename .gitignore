@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env*
+.DS_Store
+
+# Data pribadi: akun, sesi login, data & token Moodle tiap user. Jangan di-commit
+data/moodle.json
+data/users.json
+data/sessions.json
+data/users/
